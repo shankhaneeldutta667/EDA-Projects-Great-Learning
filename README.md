@@ -18,3 +18,8 @@ YouTube Dislikes Dataset:
   collected just before December 13. The information was collected by videos that had been trending in
   the USA, Canada, and Great Britain for a year prior.
 - Dataset link: https://www.kaggle.com/datasets/dmitrynikolaev/youtube-dislikes-dataset
+
+
+
+## Project 2
+## EDA & Data Preprocessing on Google App Store Rating Dataset.
